@@ -1,0 +1,46 @@
+.logo {
+	font-family: Verdana, sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+}
+
+.logo a, .logo a:hover {
+	color: #000;
+	text-decoration: none;
+}
+
+
+
+.error {
+	color: red;
+}
+
+.header {
+
+}
+
+.body {
+	padding-top: 12px;
+}
+
+.body h1 {
+	font-size: 21px;
+	font-weight: normal;
+	border-bottom: 1px solid #e5e5e5
+}
+
+.lift-data legend {
+	font-size: 18px;
+}
+
+.lift-data small.error {
+	display: block;
+	margin-top: -12px;
+	margin-bottom: 10px;	
+}
+
+
+
+.placeholder {
+	color: #aaa;
+}

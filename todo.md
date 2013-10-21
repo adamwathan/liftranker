@@ -1,0 +1,3 @@
+- Link table rows to user profiles for more info
+- Allow filtering on table columns
+- Add links to training logs for each user
